@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "ok",
+			"indices": [],
+			"name": "Idle instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 35,
+			"anim": "idle",
+			"indices": [],
+			"name": "Intro instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Devil_Intro",
+	"position": [
+		-302,
+		-405
+	],
+	"healthicon": "devil",
+	"flip_x": false,
+	"healthbar_colors": [
+		37,
+		40,
+		59
+	],
+	"camera_position": [
+		105,
+		-28
+	],
+	"sing_duration": 7,
+	"scale": 3
+}
